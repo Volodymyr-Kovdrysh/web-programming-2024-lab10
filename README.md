@@ -1,11 +1,10 @@
-# Лабораторна робота №10
-## Мета: Робота з Tailwind та DaisyUI
+# Лабораторна робота №9
+## Мета: Робота з DaisyUI
 
-Дана робота є продовженням попередньої
 
-1. Створити у склонованій директорії проєкт з назвою 'traffic-lights-10'
+1. Створити у склонованій директорії проєкт з назвою 'traffic-lights-9'
 1. Перенести попередню лабораторну
-2. Встановіть [Tailwind](https://tailwindcss.com/docs/guides/vite) та [daisyui](https://daisyui.com/docs/install/)
+2. Встановіть [daisyui](https://daisyui.com/docs/install/)
 3. Стилізуйте свій проєкт за допомогою бібліотек встановлених вище 
 4. Опублікувати додаток на [netlify.com](https://www.netlify.com/)
 1. Запушити лаборатону в github.classroom
